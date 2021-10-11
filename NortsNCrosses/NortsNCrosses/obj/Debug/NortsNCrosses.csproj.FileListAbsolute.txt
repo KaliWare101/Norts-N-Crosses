@@ -1,0 +1,10 @@
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2019\Projects\NortsNCrosses\NortsNCrosses\bin\Debug\NortsNCrosses.exe.config
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2019\Projects\NortsNCrosses\NortsNCrosses\bin\Debug\NortsNCrosses.exe
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2019\Projects\NortsNCrosses\NortsNCrosses\bin\Debug\NortsNCrosses.pdb
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2019\Projects\NortsNCrosses\NortsNCrosses\obj\Debug\NortsNCrosses.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2019\Projects\NortsNCrosses\NortsNCrosses\obj\Debug\NortsNCrosses.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2019\Projects\NortsNCrosses\NortsNCrosses\obj\Debug\NortsNCrosses.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2019\Projects\NortsNCrosses\NortsNCrosses\obj\Debug\NortsNCrosses.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2019\Projects\NortsNCrosses\NortsNCrosses\obj\Debug\NortsNCrosses.exe
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2019\Projects\NortsNCrosses\NortsNCrosses\obj\Debug\NortsNCrosses.pdb
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2019\Projects\NortsNCrosses\NortsNCrosses\obj\Debug\NortsNCrosses.nnc.resources
